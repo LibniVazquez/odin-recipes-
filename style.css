@@ -1,0 +1,29 @@
+.odin-recipes {
+    color: black;
+    background-color: rgba(0,0,255,0.2);
+    font-family: 'Times New Roman', Times, serif
+}
+
+.banana-bread,
+.favorite,
+.ingredients,
+.instructions {
+    background-color: rgba(0,255,0,0.2);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.blueberry-banana,
+.smoothie-ingredients,
+.smoothie-instructions {
+    color: black;
+    background-color: rgba(0,0,255,0.1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fav-ccc,
+.ccc-ingredients,
+.ccc-instructions {
+    color: black;
+    background-color: rgba(255,255,0,0.3);
+    font-family: 'Times New Roman', Times, serif;
+}
